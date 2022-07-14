@@ -1,0 +1,23 @@
+.item {
+    height: 48px;
+    width: 48px;
+    border: 1px solid black;
+    float: left;
+    margin: -1px 0px 0px -1px;
+    
+}
+
+.chart {
+    height: 400px;
+    width: 400px;
+    margin: auto;
+    
+}
+
+.board {
+    height: 50px;
+    width: 400px;
+    margin: 15px auto;
+    font-size: 20px;
+}
+
